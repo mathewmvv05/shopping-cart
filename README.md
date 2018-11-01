@@ -1,6 +1,6 @@
 # ShoppingCart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Shopping Cart Application using ngrx/store was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
 
